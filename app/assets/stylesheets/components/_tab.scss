@@ -1,0 +1,26 @@
+.tab {
+  color: white;
+  padding: 15px;
+  background-color:rgba(255,255,255,0.0);
+ width: 120px;
+ border-style: solid;
+ border-width: 1px;
+ border-color: white;
+ margin-top: 20px;
+ text-decoration: none;
+ margin: 15px;
+ padding: 10px 15px;
+ border-radius:3px;
+ height: 50px;
+ font-size:20px;
+}
+
+.tabs {
+   margin-top: 30px;
+}
+
+.tab:hover {
+ background-color:rgba(255,255,255,0.5);
+  text-decoration: none;
+  color:white;
+}
